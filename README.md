@@ -1,7 +1,7 @@
 ## Hi there I'm Thomas👋
 
 
-I am currently an undergraduate student at NYU studying Computer and Data Science with a strong interest in machine learning,generative ai, and data engineering.
+I am currently an undergraduate student at NYU studying Computer and Data Science with a strong interest in machine learning, generative ai, and data engineering. I am a data-driven problem solver with a passion for building systems that produce meaningful impact. 
 
 
 🛠️ Technical Skills
