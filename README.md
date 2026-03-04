@@ -5,15 +5,15 @@ I am currently an undergraduate student at NYU studying Computer and Data Scienc
 
 
 🛠️ Technical Skills
-Languages: Python, SQL, Java C/C++, Bash
+**Languages**: Python, SQL, Java C/C++, Bash
 
-ML: Pytorch, Scikit-learn, Numpy, Pandas, Hugging Face, FastMCP, and Langchain
+**ML**: Pytorch, Scikit-learn, Numpy, Pandas, Hugging Face, FastMCP, and Langchain
 
-Data Modeling: Dremio, Apache Iceberg, MinIO, SQLite, Qdrant, MongoDB, and PostgreSQL
+**Data Modeling**: Dremio, Apache Iceberg, MinIO, SQLite, Qdrant, MongoDB, and PostgreSQL
 
-Other Frameworks: FastAPI, Streamlit, Boto3, Flask, Fairlearn and Statsmodels
+**DevOps**: Git, Docker, Kubernetes, Helm Charts, Modal, Jira, and Confluence
 
-DevOps: Git, Docker, Kubernetes, Helm Charts, Modal, Jira, and Confluence
+**Other Frameworks**: FastAPI, Streamlit, Boto3, Flask, Fairlearn and Statsmodels
 
 Outside of tech, I’m a huge fan of:
 
